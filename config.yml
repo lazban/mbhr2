@@ -1,4 +1,4 @@
-baseURL: "https://examplesite.com/"
+baseURL: ""
 title: Made By Human Race
 paginate: 5
 theme: PaperMod
@@ -33,7 +33,7 @@ params:
     ShowReadingTime: false
     ShowShareButtons: true
     ShowPostNavLinks: true
-    ShowBreadCrumbs: true #per visualizzare il path dell'articolo
+    ShowBreadCrumbs: false #per visualizzare il path dell'articolo
     ShowCodeCopyButtons: false
     disableSpecial1stPost: false
     disableScrollToTop: false
@@ -119,14 +119,11 @@ menu:
           name: Approfondimenti
           url: /categories/
           weight: 10
-        - identifier: tags
-          name: tags
+        - identifier: tag
+          name: tag
           url: /tags/
           weight: 20
-        - identifier: example
-          name: example.org
-          url: https://example.org
-          weight: 30
+
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
 # markup:
