@@ -14,6 +14,9 @@ minify:
     disableXML: true
     minifyOutput: true
 
+permalinks:
+  posts: "/:year/:month/:slug/"
+
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     title: Made By Human Race
@@ -24,20 +27,20 @@ params:
     images: ["<link or path of image for opengraph, twitter-cards>"]
     # DateFormat: "January 2, 2006"
     DateFormat: "2 January, 2006"
-    defaultTheme: auto # dark, light
+    defaultTheme: light # dark, light
     disableThemeToggle: false
 
-    ShowReadingTime: true
+    ShowReadingTime: false
     ShowShareButtons: true
     ShowPostNavLinks: true
-    ShowBreadCrumbs: true
+    ShowBreadCrumbs: true #per visualizzare il path dell'articolo
     ShowCodeCopyButtons: false
     disableSpecial1stPost: false
     disableScrollToTop: false
     comments: false
     hidemeta: false
     hideSummary: false
-    showtoc: false
+    showtoc: true
     tocopen: false
 
     assets:
@@ -57,17 +60,17 @@ params:
     # profile-mode
     profileMode:
         enabled: false # needs to be explicitly set
-        title: ExampleSite
-        subtitle: "This is subtitle"
+        title: Made By Human Race
+        subtitle: "un blog made by human race"
         imageUrl: "<img location>"
         imageWidth: 120
         imageHeight: 120
         imageTitle: my image
         buttons:
-            - name: Posts
-              url: posts
-            - name: Tags
-              url: tags
+            - name: Post
+              url: post
+            - name: Serie
+              url: series
 
     # home-info mode
     homeInfoParams:
@@ -112,8 +115,8 @@ params:
         keys: ["title", "permalink", "summary", "content"]
 menu:
     main:
-        - identifier: categories
-          name: categories
+        - identifier: Approfondimenti
+          name: Approfondimenti
           url: /categories/
           weight: 10
         - identifier: tags
