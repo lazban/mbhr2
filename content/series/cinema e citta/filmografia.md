@@ -1,16 +1,16 @@
 ---
-title: "citta1"
-slug: "os-citta1"
-description: "i film mostrati in Oggetto/Soggetto/19"
+title: "Filmografia Cinema e Città"
+slug: "filmografia"
+description: "i film mostrati in Cinema e Città, Livorno 2021"
 draft: false
-date: 2019-03-01T23:02:17+01:00
-weight: 2
+date: 2021-08-23T23:02:17+01:00
+weight: 1
 # aliases: ["/first"]
-categories: ["città e cinema"]
+categories: ["cinema e città"]
 tags: []
 author: ""
 # author: ["Me", "You"] # multiple authors
-showToc: true
+showToc: false
 TocOpen: false
 hidemeta: false
 comments: false
@@ -26,9 +26,9 @@ cover:
 ---
 
 
-### Oggetto/Soggetto/19
+## Filmografia Cinema e Città
 
-di seguito, i film citati nel percorso 2019 in ordine cronologico inverso.
+di seguito, i film citati nell'incontro del 27 Agosto 2021 a Livorno su "Cinema e Città".
 
 **Ocean’s 8** (_Id._; Usa, 2018)
 di Gary Ross
