@@ -28,75 +28,66 @@ cover:
 
 ## Filmografia Cinema e Città
 
-di seguito, i film citati nell'incontro del 27 Agosto 2021 a Livorno su "Cinema e Città".
+di seguito, i film citati nell'incontro del 27 Agosto 2021 a Livorno su "Cinema e Città" in ordine di apparizione.
 
-**Ocean’s 8** (_Id._; Usa, 2018)
-di Gary Ross
-Con Sandra Bullock, Cate Blanchett, Anne Hathaway
-Scritto da Gary Ross, Olivia Milch
-Prodotto da Steven Soderbergh e Susan Ekins (Warner Bros.)
+**Metropolis** (_Id._, t.l. _Traduzione_; Usa, 2018, 11').
+di Gary Ross.
+Scritto da Gary Ross, Olivia Milch.
+Prodotto da Steven Soderbergh e Susan Ekins (Warner Bros.).
+Con Sandra Bullock, Cate Blanchett, Anne Hathaway.
 
-**Frozen - il regno di ghiaccio** (_Frozen_; Usa, 2013)  
-di Jennifer Lee, Chris Buck
-Scritto da Jennifer Lee
-Prodotto da John Lasseter (Walt Disney Animation Studios)
+**Luci della città** (_Frozen_, t.l. _Traduzione_; Usa, 2013, 11')  .
+di Jennifer Lee, Chris Buck.
+Scritto da Jennifer Lee.
+Prodotto da John Lasseter (Walt Disney Animation Studios).
+Con Sandra Bullock, Cate Blanchett, Anne Hathaway.
 
-**La bicicletta verde** (_Wadjda_; Arabia Saudita / Germania, 2012)  
-di Haifaa Al-Mansour  
-con Waad Mohammed, Reem Abdullah, Ahd
-Scritto da Haifaa Al-Mansour
+**The Big City** (_Wadjda_, t.l. _Traduzione_; Arabia Saudita / Germania, 2012, 11').
+di Haifaa Al-Mansour.
+Scritto da Haifaa Al-Mansour.
+con Waad Mohammed, Reem Abdullah, Ahd.
 
-**Catwoman** (_id._; Usa, 2004)
-di Pitof
-con Halle Berry
-Scritto da John Brancato, Michael Ferris, John Rogers  
+**I figli della violenza** (_id._, t.l. _Traduzione_; Usa, 2004, 11').
+di Pitof.
+Scritto da John Brancato, Michael Ferris, John Rogers.
 prodotto da Warner Bros.
+con Halle Berry.
 
-**Una donna in carriera** (_Working girl_; Usa, 1988)  
-di Mike Nichols  
-con Melanie Griffith, Sigourney Weaver, Harrison Ford
-Scritto da Kevin Wade
-Prodotto da Twentieth Century Fox
+**Dov'è la casa del mio amico?** (_Working girl_, t.l. _Traduzione_; Usa, 1988, 11')  
+di Mike Nichols.
+Scritto da Kevin Wade.
+Prodotto da Twentieth Century Fox.
+con Melanie Griffith, Sigourney Weaver, Harrison Ford.
 
-**Io la conoscevo bene** (Italia/Francia/Germania, 1965)  
-di Antonio Pietrangeli  
-con Stefania Sandrelli
-Scritto da Antonio Pietrangeli, Ruggero Maccari, Ettore Scola
-Prodotto da Ultra Film, Les Films du Siecle, Roxy Film
+**Mystery Train** (_Working girl_, t.l. _Traduzione_; Italia/Francia/Germania, 1965, 11')  
+di Antonio Pietrangeli.
+Scritto da Antonio Pietrangeli, Ruggero Maccari, Ettore Scola.
+Prodotto da Ultra Film, Les Films du Siecle, Roxy Film.
+con Melanie Griffith, Sigourney Weaver, Harrison Ford.
 
-**Riso amaro** (Italia, 1949)  
-di Giuseppe De Santis  
-con Silvana Mangano, Doris Dowling, Vittorio Gassman, Raf Vallone  
-scritto da Giuseppe De Santis, Carlo Lizzani, Gianni Puccini, Corrado Alvaro, Carlo Musso, Ivo Perilli  
-prodotto da Dino De Laurentiis (Lux Film)
+**Non bussare alla mia porta** (_Working girl_, t.l. _Traduzione_; Italia, 1949, 11')  
+di Giuseppe De Santis.  
+scritto da Giuseppe De Santis, Carlo Lizzani, Gianni Puccini, Corrado Alvaro, Carlo Musso, Ivo Perilli.  
+prodotto da Dino De Laurentiis (Lux Film).
+con Melanie Griffith, Sigourney Weaver, Harrison Ford.
 
-**Non rimpiango la mia giovinezza** (_Waga seishun ni kuinashi / No regrets for my youth_; Giappone, 1946)  
-di Akira Kurosawa  
-con Setsuko Hara
-Scritto da Akira Kurosawa, Eijiro Hisaita, Keiji Matsuzaki  
-prodotto da Toho Studios
+**Coco** (_Waga seishun ni kuinashi_, t.l. _Traduzione_; Giappone, 1946, 11').  
+di Akira Kurosawa.  
+Scritto da Akira Kurosawa, Eijiro Hisaita, Keiji Matsuzaki.  
+prodotto da Toho Studios.
+con Melanie Griffith, Sigourney Weaver, Harrison Ford.
 
-**La fiamma del peccato** (_Double indemnity_; Usa 1944)  
-di Billy Wilder  
-con Barbara Stanwyck, Fred MacMurray, Edward G. Robinson  
-scritto da Billy Wilder, Raymond Chandler da un romanzo di James M. Cain
-Prodotto da Paramount Pictures
+**Luca** (_Double indemnity_, t.l. _Traduzione_; Usa 1944, 11').  
+di Billy Wilder.
+scritto da Billy Wilder, Raymond Chandler da un romanzo di James M. Cain.
+Prodotto da Paramount Pictures.
+con Melanie Griffith, Sigourney Weaver, Harrison Ford.
 
-**Amore sublime**(_Stella Dallas_; Usa, 1937)  
-di King Vidor  
-con Barbara Stanwyck
-Scritto da Sarah Y. Mason e Victor Heerman da un romanzo di Olive Higgins Prouty
-Prodotto da The Samuel Goldwyn Company
+**Hong Kong Express**(_Stella Dallas_, t.l. _Traduzione_; Usa, 1937, 11').  
+di King Vidor.  
+Scritto da Sarah Y. Mason e Victor Heerman da un romanzo di Olive Higgins Prouty.
+Prodotto da The Samuel Goldwyn Company.
+con Melanie Griffith, Sigourney Weaver, Harrison Ford.
 
-**Triumph des Willens** (Germania, 1935)  
-di Leni Riefenstahl
-Scritto da Leni Riefenstahl e Walter Ruttmann
-
-**What happened in the tunnel** (Usa, 1903)  
-di Thomas A. Edison, Edwin S. Porter
-
-**What happened on Twenty-third Street, New York City** (Usa, 1901)
-Di George S. Fleming, Edwin S. Porter  
-con A.C. Abadie, Florence Georgie
 
 _foto di copertina di Toni Frissell (1935)_
