@@ -3,7 +3,7 @@ title: "Filmografia Cinema e Città"
 slug: "filmografia"
 description: "i film mostrati in Cinema e Città, Livorno 2021"
 draft: false
-date: 2021-08-23T23:02:17+01:00
+date: 2021-08-23T07:02:17+01:00
 weight: 1
 # aliases: ["/first"]
 categories: ["cinema e città"]

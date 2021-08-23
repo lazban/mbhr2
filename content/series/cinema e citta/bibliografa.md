@@ -3,7 +3,7 @@ title: "Bibliografia Cinema e Città"
 slug: "bibliografia"
 description: "libri utili per ragionare di cinema e città"
 draft: false
-date: 2021-08-23T23:02:17+01:00
+date: 2021-08-23T07:02:17+01:00
 weight: 1
 # aliases: ["/first"]
 categories: ["cinema e città"]
