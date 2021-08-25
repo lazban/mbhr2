@@ -30,11 +30,15 @@ cover:
 
 Per preparare l'incontro del 27 Agosto 2021 a Livorno su "Cinema e Città", sono tornati utili alcuni testi. Alcuni (pochi) relativi proprio al tema, al rapporto tra arte cinematografica e agglomerati urbani. Altri relativi ai singoli film analizzati.
 
+### libri
+
 **Wim Wenders. Il cinema dello sguardo** (Loggia De' Lanzi, 1995). Fuori catalogo.
 di AA.VV.
 
-**Wim Wenders. Il cinema dello sguardo** (_XXX_, 2010, versione italiana di Le Mani, 2019).
-di Gary Ross.
+### altri media
+
+**Indovina chi viene a cena** terzo episodio della serie **Fred** podcast di Michele Dalai, Guido Bertolotti, Danilo Di Termini.
+Prodotto da Audible Studios di Amazon. Maggio 2019.
 
 
 _foto di copertina di Toni Frissell (1935)_

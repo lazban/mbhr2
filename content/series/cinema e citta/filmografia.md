@@ -36,11 +36,10 @@ Scritto da Gary Ross, Olivia Milch.
 Prodotto da Steven Soderbergh e Susan Ekins (Warner Bros.).
 Con Sandra Bullock, Cate Blanchett, Anne Hathaway.
 
-**Luci della città** (_Frozen_, t.l. _Traduzione_; Usa, 2013, 11')  .
-di Jennifer Lee, Chris Buck.
-Scritto da Jennifer Lee.
-Prodotto da John Lasseter (Walt Disney Animation Studios).
-Con Sandra Bullock, Cate Blanchett, Anne Hathaway.
+**Luci della città** (_City lights_; Usa, 1931, 87')  .
+di Charlie Chaplin.
+Scritto e musicato da Charlie Chaplin.
+Con Charlie Chaplin, Virginia Cherrill, Harry Myers.
 
 **The Big City** (_Wadjda_, t.l. _Traduzione_; Arabia Saudita / Germania, 2012, 11').
 di Haifaa Al-Mansour.
@@ -53,11 +52,10 @@ Scritto da John Brancato, Michael Ferris, John Rogers.
 prodotto da Warner Bros.
 con Halle Berry.
 
-**Dov'è la casa del mio amico?** (_Working girl_, t.l. _Traduzione_; Usa, 1988, 11')  
-di Mike Nichols.
-Scritto da Kevin Wade.
-Prodotto da Twentieth Century Fox.
-con Melanie Griffith, Sigourney Weaver, Harrison Ford.
+**Dov'è la casa del mio amico?** (_Khane-ye dust kojast?_, t.l. _Dov'è la casa dell'amico?_; Iran, 1987, 83')  
+di Abbas Kiarostami.
+Scritto e montato da Abbas Kiarostami.
+con Babek Ahmedpour.
 
 **Mystery Train** (_Working girl_, t.l. _Traduzione_; Italia/Francia/Germania, 1965, 11')  
 di Antonio Pietrangeli.
