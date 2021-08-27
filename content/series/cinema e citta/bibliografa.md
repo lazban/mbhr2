@@ -35,6 +35,15 @@ Per preparare l'incontro del 27 Agosto 2021 a Livorno su "Cinema e Città", sono
 **Wim Wenders. Il cinema dello sguardo** (Loggia De' Lanzi, 1995). Fuori catalogo.
 di AA.VV.
 
+**Jim Jarmusch. Il fascino della malinconia** (Le Mani, 2008). Fuori catalogo.
+di Chiara Renda.
+
+**Grand Tour Italiano. 61 film dei primi anni del '900** (Cineteca di Bologna, 2016). Libro + dvd. [link Amazon](https://amzn.to/3zhWyq7).
+di AA.VV.
+
+**Charlie Chaplin** (Il Castoro Cinema, 1995). [link Amazon](https://amzn.to/3jf36A0).
+di Giorgio Cremonini.
+
 ### altri media
 
 **Indovina chi viene a cena** terzo episodio della serie **Fred** podcast di Michele Dalai, Guido Bertolotti, Danilo Di Termini.

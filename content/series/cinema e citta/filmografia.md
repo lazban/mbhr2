@@ -36,7 +36,12 @@ Scritto da Gary Ross, Olivia Milch.
 Prodotto da Steven Soderbergh e Susan Ekins (Warner Bros.).
 Con Sandra Bullock, Cate Blanchett, Anne Hathaway.
 
-**Luci della città** (_City lights_; Usa, 1931, 87')  .
+**Aurora** (_Sunrise: A Song of Two Humans_; t.l. _alba: una canzone di due esseri umani_; Usa, 1927, muto, 1,20:1, 97').
+Di Friedrich Wilhelm Murnau.
+Scritto da Carl Mayer, da un romanzo di	Hermann Sudermann (_Die Reise nach Tilsit_).
+Con George O'Brien, Janet Gaynor.
+
+**Luci della città** (_City lights_; Usa, 1931, 87').
 di Charlie Chaplin.
 Scritto e musicato da Charlie Chaplin.
 Con Charlie Chaplin, Virginia Cherrill, Harry Myers.
@@ -57,11 +62,11 @@ di Abbas Kiarostami.
 Scritto e montato da Abbas Kiarostami.
 con Babek Ahmedpour.
 
-**Mystery Train** (_Working girl_, t.l. _Traduzione_; Italia/Francia/Germania, 1965, 11')  
-di Antonio Pietrangeli.
-Scritto da Antonio Pietrangeli, Ruggero Maccari, Ettore Scola.
+**Mystery Train, Martedì notte a Memphis** (_Mystery Train_,; Usa, 1989, 113')  
+di Jim Jarmusch.
+Scritto da Jim Jarmusch.
 Prodotto da Ultra Film, Les Films du Siecle, Roxy Film.
-con Melanie Griffith, Sigourney Weaver, Harrison Ford.
+con Youki Kudoh, Masatoshi Nagase.
 
 **Non bussare alla mia porta** (_Working girl_, t.l. _Traduzione_; Italia, 1949, 11')  
 di Giuseppe De Santis.  
