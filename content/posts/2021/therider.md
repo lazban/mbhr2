@@ -1,7 +1,7 @@
 ---
 title: "The Rider | visioni"
 slug: "therider"
-description: "Secondo film di Chloe Zhao girato e ambientato nella riserva di Pine Ridge in South Dakota, Brady addestra cavalli selvaggi e fa il rodeo. E trova il senso della vita"
+description: "Secondo film di Chloé Zhao girato e ambientato nella riserva di Pine Ridge in South Dakota, Brady addestra cavalli selvaggi e fa il rodeo. E trova il senso della vita"
 draft: false
 date: 2021-09-15T06:00:00+01:00
 # weight: 1 - to pin posts
@@ -18,7 +18,7 @@ disableHLJS: true # to disable highlightjs
 disableShare: false
 searchHidden: false
 cover:
-    image: "/img/posts/2020/20200827_bologna.jpg" # image path/url
+    image: "/img/posts/2021/therider cover.jpeg" # image path/url
     alt: "" # alt text
     caption: "" # display caption under cover
     relative: false # when using page bundles set this to true
@@ -75,6 +75,5 @@ Più che in _Nomadland_ forse più maturo e meglio recitato, _The rider_ ha una 
 - - -
 
 {{< figure src="/img/posts/2021/therider locandina.jpeg" >}}
-**The Rider** (_The rider - il sogno di un cowboy_),</br>
-di Chloé Zhao, Usa 2017, 105'</br>
-scritto da Chloé Zhao
+**The Rider** (_The rider - il sogno di un cowboy_),
+scritto e diretto da Chloé Zhao, Usa 2017, 105'
